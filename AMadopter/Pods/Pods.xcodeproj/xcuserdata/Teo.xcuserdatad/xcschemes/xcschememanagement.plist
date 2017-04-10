@@ -24,10 +24,15 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SwiftyVK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>72BC62E08CCCC64754C1C71BD336734D</key>
+		<key>334F8CFF6C8F864BEACB3E0DE7505FFD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -37,12 +42,17 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CA7813723402B3F85D85BB92ECD47C35</key>
+		<key>A72BE2D4A13828DC3D38230C217B7D20</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F40634FDCD5571B21E29A58461251AAA</key>
+		<key>AE1133ED113C3A0BCBFD2D956BB98331</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CF4F0A7E249268242D9E9B51F17DFF77</key>
 		<dict>
 			<key>primary</key>
 			<true/>

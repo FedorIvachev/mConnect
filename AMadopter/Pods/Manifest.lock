@@ -4,17 +4,29 @@ PODS:
     - PubNub/Core (= 4.5.15)
   - PubNub/Core (4.5.15)
   - SwiftyJSON (3.1.4)
+  - SwiftyVK (2.0.7)
 
 DEPENDENCIES:
   - Alamofire (~> 4.4)
   - PubNub
   - SwiftyJSON
+  - SwiftyVK (from `https://github.com/WE-St0r/SwiftyVK.git`)
+
+EXTERNAL SOURCES:
+  SwiftyVK:
+    :git: https://github.com/WE-St0r/SwiftyVK.git
+
+CHECKOUT OPTIONS:
+  SwiftyVK:
+    :commit: 92422c1ebbbdb418ba1076ef8fa27950d6f8e62b
+    :git: https://github.com/WE-St0r/SwiftyVK.git
 
 SPEC CHECKSUMS:
   Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
   PubNub: 5080a9cb739435e1efe0b47a00fd45d1188b5150
   SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwiftyVK: 4e2474315632374712472e35638d3c317e6aa77c
 
-PODFILE CHECKSUM: 674e43ead657dbcafdef4dfee129379dc3b56b61
+PODFILE CHECKSUM: ac6dc77dbcae616e1e03b2be479e6f15a68ec26a
 
 COCOAPODS: 1.2.0
